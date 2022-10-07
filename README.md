@@ -13,9 +13,8 @@ I`m actively looking for a job
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript)
 ![NextJs](https://img.shields.io/badge/-NextJs-090909?style=for-the-badge&logo=next)
 
-![Nodejs](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=node.js)
-![PostgreSQL](https://img.shields.io/badge/-postgresql-090909?style=for-the-badge&logo=postgresql)
 ![PHP](https://img.shields.io/badge/-php-090909?style=for-the-badge&logo=php)
+![MySQL](https://img.shields.io/badge/-mysql-090909?style=for-the-badge&logo=mysql)
 ![Laravel](https://img.shields.io/badge/-laravel-090909?style=for-the-badge&logo=laravel)
 
 ![Python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python)
