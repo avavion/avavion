@@ -16,6 +16,7 @@ I`m actively looking for a job
 
 ![Nodejs](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=node.js)
 ![PostgreSQL](https://img.shields.io/badge/-postgresql-090909?style=for-the-badge&logo=postgresql)
+![PHP](https://img.shields.io/badge/-php-090909?style=for-the-badge&logo=php)
 
 ![Git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git)
 ![Webpack](https://img.shields.io/badge/-webpack-090909?style=for-the-badge&logo=webpack)
