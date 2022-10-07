@@ -12,7 +12,7 @@ I`m actively looking for a job
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript)
-![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=redux)
+![NextJs](https://img.shields.io/badge/-NextJs-090909?style=for-the-badge&logo=nextjs)
 
 ![Nodejs](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=node.js)
 ![PostgreSQL](https://img.shields.io/badge/-postgresql-090909?style=for-the-badge&logo=postgresql)
