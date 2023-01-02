@@ -12,6 +12,7 @@ I`m actively looking for a job
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript)
 ![NextJs](https://img.shields.io/badge/-NextJs-090909?style=for-the-badge&logo=next)
+![Redux](https://img.shields.io/badge/-Redux-764abc?style=for-the-badge&logo=Redux)
 
 ![PHP](https://img.shields.io/badge/-php-090909?style=for-the-badge&logo=php)
 ![MySQL](https://img.shields.io/badge/-mysql-090909?style=for-the-badge&logo=mysql)
