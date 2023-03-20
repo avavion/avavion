@@ -23,3 +23,5 @@ I`m actively looking for a job
 ![Git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git)
 ![Webpack](https://img.shields.io/badge/-webpack-090909?style=for-the-badge&logo=webpack)
 ![Figma](https://img.shields.io/badge/-figma-090909?style=for-the-badge&logo=figma)
+
+![Profile views](https://gpvc.arturio.dev/avavion)
