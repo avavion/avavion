@@ -24,6 +24,8 @@ I`m actively looking for a job
 ![Webpack](https://img.shields.io/badge/-webpack-090909?style=for-the-badge&logo=webpack)
 ![Figma](https://img.shields.io/badge/-figma-090909?style=for-the-badge&logo=figma)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avavion)
+
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=avavion)  
 
 ![Profile views](https://gpvc.arturio.dev/avavion)
